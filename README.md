@@ -45,4 +45,4 @@ php -S localhost:8000 -t src/
 ![Update Video](./assets/gitImages/updatevideo.png)
 
 ## License
-[GNU 3.0](https://github.com/omeraydemirr/tour-api/blob/c2638bb33e018fab441d078f2a95d4baab905b64/LICENSE)
+[GNU 3.0](https://github.com/omeraydemirr/video-website/blob/ad980fda544e1d0f55cfaf6c08d924cb1bf6ad97/LICENSE)
